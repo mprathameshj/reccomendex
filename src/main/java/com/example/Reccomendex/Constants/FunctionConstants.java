@@ -5,6 +5,8 @@ import org.springframework.stereotype.Component;
 public class FunctionConstants {
     public static final int RAM_MIN=1;
     public static final int RAM_MAX=20;
+    public static final int ROM_MIN=32;
+    public static final int ROM_MAX=2400;
     public static final int CAMERA_MIN=1;
     public static final int CAMERA_MAX=120;
     public static final int BATTERY_MIN=2500;
